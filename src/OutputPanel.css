@@ -1,0 +1,6 @@
+.output-person {
+  display: flex;
+  justify-content: space-between;
+  padding: 0rem 5rem;
+  letter-spacing: 0.1rem;
+}
